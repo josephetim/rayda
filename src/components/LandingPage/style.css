@@ -670,6 +670,7 @@
     height: 68px;
     position: relative;
     width: 180px;
+    cursor: pointer;
   }
   
   .index .text-wrapper-29 {
@@ -2070,6 +2071,7 @@
     box-shadow: 0px 20px 35px #f1a50126;
     height: 60px;
     position: relative;
+    border: transparent;
     width: 170px;
   }
   
@@ -2092,6 +2094,8 @@
     position: absolute;
     top: 4px;
     width: 167px;
+    border: none;
+    background-color: transparent;
   }
   
   .index .overlap-13 {

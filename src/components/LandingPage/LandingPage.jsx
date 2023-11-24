@@ -475,11 +475,11 @@ export const LandingPage = () => {
               <div className="desc">
                 <div className="CTA">
                   <button className="CTA-2">
-                    <div className="overlap-group-9">
+                    <button className="overlap-group-9">
                       <div className="text-wrapper-61">Find out more</div>
-                    </div>
+                    </button>
                   </button>
-                  <div className="play-demo">
+                  <button className="play-demo">
                     <div className="overlap-13">
                       <div className="text-wrapper-62">Play Demo</div>
                       <img
@@ -488,7 +488,7 @@ export const LandingPage = () => {
                         src="https://cdn.animaapp.com/projects/63ef4c59ade6ff63d2f6f99c/releases/6560a9d86e4f29f763a7faeb/img/play-button.png"
                       />
                     </div>
-                  </div>
+                  </button>
                 </div>
                 <p className="tagline">BEST DESTINATIONS AROUND THE WORLD</p>
                 <p className="desc-2">
