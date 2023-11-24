@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Google Sans';
+    src: url('../../assets/fonts/ProductSans-Regular.ttf') format('truetype');
+    /* Add other font formats if necessary */
+    font-style: normal;
+  }
+.header {
+    padding-left: 140px;
+    padding-top: 44px;
+    padding-right: 125px;
+    padding-bottom: 50px;
+    background-color: #FFF9EE;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.headerLinksContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 5vw;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.border {
+    border-radius: 5px;
+    border: 1px solid var(--1st, #212832);
+    width: 102px;
+height: 40px;
+}
+.navLink{
+    color: var(--1st, #212832);
+    font-family: 'Google Sans';
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: normal;
+}
