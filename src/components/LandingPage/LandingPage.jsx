@@ -110,7 +110,7 @@ export const LandingPage = () => {
             </div>
             <div className="overlap-wrapper">
               <div className="overlap-2">
-                <div className="text-wrapper-28">Your email</div>
+                <input className="text-wrapper-28" placeholder="Your email" />
                 <div className="div-wrapper">
                   <div className="overlap-group-2">
                     <img

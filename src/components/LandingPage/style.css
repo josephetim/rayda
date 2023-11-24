@@ -619,6 +619,8 @@
     line-height: normal;
     position: absolute;
     top: 25px;
+    border: none;
+    outline: navajowhite;
   }
   
   .index .div-wrapper {
